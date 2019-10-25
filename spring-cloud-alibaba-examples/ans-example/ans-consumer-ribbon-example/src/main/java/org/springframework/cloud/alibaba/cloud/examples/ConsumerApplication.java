@@ -12,7 +12,8 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- */
+ *//*
+
 
 package org.springframework.cloud.alibaba.cloud.examples;
 
@@ -23,9 +24,11 @@ import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
+*/
 /**
  * @author xiaolongzuo
- */
+ *//*
+
 @SpringBootApplication
 @EnableDiscoveryClient
 public class ConsumerApplication {
@@ -41,3 +44,4 @@ public class ConsumerApplication {
     }
 
 }
+*/
